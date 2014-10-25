@@ -97,14 +97,16 @@
   background-color: black;
   color: white;
   border-bottom: 1px solid #dbdbdb;
-  position: center;
+
 }
 
 .meet-the-team .col-md-4 {
   margin-bottom: 20px;
-  text-align: center;
 }
 
+.faq .col-md-4 {
+  text-align: left;
+}
 
 .faq {
   background-color: #f7f7f7;
